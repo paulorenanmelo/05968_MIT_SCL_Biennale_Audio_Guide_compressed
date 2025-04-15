@@ -1,4 +1,4 @@
-const cacheName = "Squint Opera-Audio Guide-0.1.2";
+const cacheName = "Squint Opera-Audio Guide-0.1.3";
 const contentToCache = [
     "Build/Build_gzip.loader.js",
     "Build/Build_gzip.framework.js.gz",
