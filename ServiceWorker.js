@@ -1,9 +1,9 @@
 const cacheName = "Squint Opera-Audio Guide-1.0.1";
 const contentToCache = [
     "Build/Build_gzip.loader.js",
-    "Build/Build_gzip.framework.js.gz",
-    "Build/Build_gzip.data.gz",
-    "Build/Build_gzip.wasm.gz",
+    "Build/Build_gzip.framework.js.unityweb",
+    "Build/Build_gzip.data.unityweb",
+    "Build/Build_gzip.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
